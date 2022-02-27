@@ -2,7 +2,7 @@
 title: Brain Expert
 description: "Sua consultoria em volumetria cerebral"
 baseurl: "" #"/home" # the subpath of your site, e.g. /blog
-url: "https://brizolara.github.io/brain-expert/" # the name of your domain
+url: https://www.tiagobrizolara.com/brain-expert/ #"https://brizolara.github.io/brain-expert/" # the name of your domain
 logo_url: svg/min/logo.svg
 
 # Hero
