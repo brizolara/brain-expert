@@ -1,0 +1,65 @@
+# Site settings
+title: Brain Expert
+description: "Sua consultoria em volumetria cerebral"
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "https://brizolara.github.io/brain-expert/" # the name of your domain
+logo_url: svg/min/logo.svg
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: BrainExpert
+    hero_description: Sua consultoria em volumetria cerebral.
+
+# Contact form
+api_token: # Enter API token here
+
+# Contact info
+contact:
+    telefone: 932 50 540
+    #emergency: 931 53 234
+    email: alexandrebastos@mac.com
+    #address: Von schroeders 273, <br> Viña del mar - Chile
+
+# Opening hours
+monday_friday: 9:00 – 18:00
+saturday: 10:00 – 17:00
+sunday: 10:00 – 15:00
+
+# Testimonials
+#testimonials:
+#    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: Von schroeders 273, Viña del mar, Chile
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+skype: skype:obaez_design?userinfo
+feed: yes
+
+# Footer
+copyright: © 2022 BrainExpert
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:
