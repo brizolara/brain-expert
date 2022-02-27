@@ -1,7 +1,7 @@
 # Site settings
 title: Brain Expert
 description: "Sua consultoria em volumetria cerebral"
-baseurl: "" #"/home" # the subpath of your site, e.g. /blog
+#baseurl: "" #"/home" # the subpath of your site, e.g. /blog
 url: https://www.tiagobrizolara.com/brain-expert/ #"https://brizolara.github.io/brain-expert/" # the name of your domain
 logo_url: svg/min/logo.svg
 
